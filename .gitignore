@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Only ignore PDFs in root directory
+/*.pdf
+
+# Optional: Ignore PDFs larger than 50MB (you'll need to explicitly add smaller ones)
+# To track a large PDF that was previously ignored, use: git add -f path/to/file.pdf
