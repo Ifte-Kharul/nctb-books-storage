@@ -354,6 +354,18 @@
         "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class9-10/EnglishVersion/Agriculture%209-10.pdf"
       },
       {
+        "id": "class9-10_arbi_en",
+        "title": "Arbi",
+        "class": "9-10",
+        "subject": "Arbi",
+        "version": "English",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class9-10/EnglishVersion/Arbi pdf class 9-10 com_oc.pdf",
+        "size": "21.1MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class9-10/EnglishVersion/Arbi%20pdf%20class%209-10%20com_oc.pdf"
+      },
+      {
         "id": "class9-10_arts_crafts_en",
         "title": "Arts & Crafts",
         "class": "9-10",
