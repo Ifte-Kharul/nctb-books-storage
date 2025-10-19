@@ -1,11 +1,149 @@
 {
   "metadata": {
-    "lastUpdated": "2025-10-18",
+    "lastUpdated": "2025-10-19",
     "version": "1.0",
     "totalBooks": {
-      "bangla": 27,
-      "english": 27
+      "bangla": 50,
+      "english": 30
     }
+  },
+  "class6": {
+    "bangla": [
+      {
+        "id": "class6_anondopath",
+        "title": "Anondopath",
+        "class": "6",
+        "subject": "Bangla Literature",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/Anondopath Class 6.pdf",
+        "size": "13.3MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/Anondopath%20Class%206.pdf"
+      },
+      {
+        "id": "class6_bangla_bekaron",
+        "title": "Bangla Bekaron O Nirmiti",
+        "class": "6",
+        "subject": "Bangla Grammar",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/Bangla Bekaron O Nirmiti Class 6.pdf",
+        "size": "37.4MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/Bangla%20Bekaron%20O%20Nirmiti%20Class%206.pdf"
+      },
+      {
+        "id": "class6_bgs",
+        "title": "BGS",
+        "class": "6",
+        "subject": "Bangladesh and Global Studies",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/BGS-6 com_11zon.pdf",
+        "size": "3.8MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/BGS-6%20com_11zon.pdf"
+      },
+      {
+        "id": "class6_buddhist",
+        "title": "Buddhadhormo Sikkha",
+        "class": "6",
+        "subject": "Buddhism",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/Buddhadhormo Sikkha Class 6.pdf",
+        "size": "18.7MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/Buddhadhormo%20Sikkha%20Class%206.pdf"
+      },
+      {
+        "id": "class6_charu_karukola",
+        "title": "Charu O Karukola",
+        "class": "6",
+        "subject": "Arts & Crafts",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/Charu O Karukola Class 6.pdf",
+        "size": "15.0MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/Charu%20O%20Karukola%20Class%206.pdf"
+      },
+      {
+        "id": "class6_charupath",
+        "title": "Charupath",
+        "class": "6",
+        "subject": "Bangla Literature",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/Charupath Class 6.pdf",
+        "size": "20.0MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/Charupath%20Class%206.pdf"
+      },
+      {
+        "id": "class6_english_today",
+        "title": "English For Today",
+        "class": "6",
+        "subject": "English",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/English For Today Class 6.pdf",
+        "size": "21.3MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/English%20For%20Today%20Class%206.pdf"
+      },
+      {
+        "id": "class6_english_grammar",
+        "title": "English Grammar & Composition",
+        "class": "6",
+        "subject": "English Grammar",
+        "version": "Bangla",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/BanglaVersion/English Grammar & Composition Class 6.pdf",
+        "size": "14.7MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/BanglaVersion/English%20Grammar%20%26%20Composition%20Class%206.pdf"
+      }
+    ],
+    "english": [
+      {
+        "id": "class6_songit_en",
+        "title": "Songit",
+        "class": "6",
+        "subject": "Music",
+        "version": "English",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/EnglishVersion/Songit Class 6.pdf",
+        "size": "13.4MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/EnglishVersion/Songit%20Class%206.pdf"
+      },
+      {
+        "id": "class6_songskrito_en",
+        "title": "Songskrito",
+        "class": "6",
+        "subject": "Sanskrit",
+        "version": "English",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/EnglishVersion/Songskrito Class 6.pdf",
+        "size": "6.4MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/EnglishVersion/Songskrito%20Class%206.pdf"
+      },
+      {
+        "id": "class6_arbi_en",
+        "title": "Suchito Arbi Path",
+        "class": "6",
+        "subject": "Arabic",
+        "version": "English",
+        "year": 2025,
+        "storage": "github",
+        "path": "pdfs/class6/EnglishVersion/Suchito Arbi Path Class 6.pdf",
+        "size": "18.6MB",
+        "downloadUrl": "https://raw.githubusercontent.com/Ifte-Kharul/nctb-books-storage/master/pdfs/class6/EnglishVersion/Suchito%20Arbi%20Path%20Class%206.pdf"
+      }
+    ]
   },
   "class9-10": {
     "bangla": [
